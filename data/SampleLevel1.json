@@ -3,7 +3,7 @@
     "name": "Bounce",
     "author": "Glowfizzi",
     "creators": ["Glowfizzi"],
-    "verifier": "Piemarker",
+    "verifier": "Glowfizzi",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 56,
     "password": "Free To Copy",
@@ -14,6 +14,13 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "Night4Gd",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 90
+        },
+
     ]
 }
