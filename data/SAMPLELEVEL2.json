@@ -13,12 +13,12 @@
             "user": "Piemarker",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Night4Gd",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "percent": 90,
             "hz": 90
         }
     ]
