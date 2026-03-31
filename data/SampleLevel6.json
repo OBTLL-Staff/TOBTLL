@@ -9,11 +9,5 @@
     "password": "Free To Copy",
     "clicksound": "Not Needed",
     "records": [
-        {
-            "user": "None",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
