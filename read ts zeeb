@@ -1,0 +1,16 @@
+to add a level click add file at the top of the data tab
+then name that new file "SampleLevel#.json" (has to be exact and replace "#" with a free number
+then copy the code from another sample level (presumably one with no victors)
+paste it into the new file and change the name and other data of the level
+author is the account it was published on
+creator is the account that made it
+and verifier is obvious
+once you do that, go to list.json and the order of them from top to bottom are in difficulty (top being hardest while bottom is easiest)
+then put the name of the file ("SampleLevel#.json") where it should be on the list then add a comma after the ""
+if the level is at the bottom then dont add a comma
+                                                                                              
+!!!! make sure you save after editing a file !!!!
+
+if you need further help just ask!!!!!!
+list shoukd update on its own
+and if a level is yet to be added but you dont want it to be put on the list without warning, dont add it to list.json
