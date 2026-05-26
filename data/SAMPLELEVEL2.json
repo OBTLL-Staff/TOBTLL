@@ -1,19 +1,13 @@
 {
     "id": 130044443,
     "name": "AURA",
-    "author": "Glowfizzi",
+    "author": "Zeebus",
     "creators": ["Zeebus"],
     "verifier": "Zeebus",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "59",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "clicksound": "Not Needed",
     "records": [
-        {
-            "user": "Night4gd",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 90
-        }
     ]
 }
