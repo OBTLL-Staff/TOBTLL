@@ -9,10 +9,6 @@
     "password": "Free To Copy",
     "clicksound": "Not Needed",
     "records": [
-        { 
-            "user": "Zeebus",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 240
+
     ]
 }
