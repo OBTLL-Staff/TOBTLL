@@ -9,5 +9,17 @@
     "password": "Free To Copy",
     "clicksound": "Not Needed",
     "records": [
+        {
+            "user": "Night4Gd",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 74,
+            "hz": 90
+        },
+        {
+            "user": "Venterion",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 73,
+            "hz": 60
+        }
     ]
 }
